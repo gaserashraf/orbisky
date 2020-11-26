@@ -40,6 +40,6 @@ Company Website (freelacener work)
 
 ![10](ss/gif8.gif)
 
-![10](ss/14.PNG)
+![10](ss/f.PNG)
 
 
