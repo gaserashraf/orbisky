@@ -38,9 +38,9 @@ Company Website (freelacener work)
 ![9](ss/14.PNG)
 ![7](ss/gif7.gif)
 
- # Responsive
+ ## Responsive
 ![10](ss/gif8.gif)
- # Review
+ ## Review
 ![10](ss/f.PNG)
 
 
